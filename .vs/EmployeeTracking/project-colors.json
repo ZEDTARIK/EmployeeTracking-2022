@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "0398b6be-a188-465f-8230-202ebb3d9049": {
+      "ProjectGuid": "0398b6be-a188-465f-8230-202ebb3d9049",
+      "DisplayName": "EmployeeTracking",
+      "ColorIndex": 0
+    },
+    "f8b7afd0-620c-43c2-a13f-436856a6bdf1": {
+      "ProjectGuid": "f8b7afd0-620c-43c2-a13f-436856a6bdf1",
+      "DisplayName": "BLL",
+      "ColorIndex": 1
+    },
+    "00be3aa7-4996-46ce-aa78-fac3c5f21a9a": {
+      "ProjectGuid": "00be3aa7-4996-46ce-aa78-fac3c5f21a9a",
+      "DisplayName": "DAL",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}

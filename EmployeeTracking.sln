@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32112.339
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EmployeeTracking", "EmployeeTracking\EmployeeTracking.csproj", "{0398B6BE-A188-465F-8230-202EBB3D9049}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BLL", "BLL\BLL.csproj", "{F8B7AFD0-620C-43C2-A13F-436856A6BDF1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DAL", "DAL\DAL.csproj", "{00BE3AA7-4996-46CE-AA78-FAC3C5F21A9A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0398B6BE-A188-465F-8230-202EBB3D9049}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0398B6BE-A188-465F-8230-202EBB3D9049}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0398B6BE-A188-465F-8230-202EBB3D9049}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0398B6BE-A188-465F-8230-202EBB3D9049}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F8B7AFD0-620C-43C2-A13F-436856A6BDF1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F8B7AFD0-620C-43C2-A13F-436856A6BDF1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F8B7AFD0-620C-43C2-A13F-436856A6BDF1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F8B7AFD0-620C-43C2-A13F-436856A6BDF1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{00BE3AA7-4996-46CE-AA78-FAC3C5F21A9A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{00BE3AA7-4996-46CE-AA78-FAC3C5F21A9A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{00BE3AA7-4996-46CE-AA78-FAC3C5F21A9A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{00BE3AA7-4996-46CE-AA78-FAC3C5F21A9A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2C0AF6A5-F5B2-4FA3-AC15-D67A2065F7E8}
+	EndGlobalSection
+EndGlobal
