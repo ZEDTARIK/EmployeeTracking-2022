@@ -9,7 +9,6 @@ C:\Users\ASUS\Desktop\Projects\C#\EmployeeTracking\EmployeeTracking\bin\Debug\ne
 C:\Users\ASUS\Desktop\Projects\C#\EmployeeTracking\EmployeeTracking\bin\Debug\net6.0-windows\BLL.pdb
 C:\Users\ASUS\Desktop\Projects\C#\EmployeeTracking\EmployeeTracking\bin\Debug\net6.0-windows\DAL.pdb
 C:\Users\ASUS\Desktop\Projects\C#\EmployeeTracking\EmployeeTracking\obj\Debug\net6.0-windows\EmployeeTracking.csproj.AssemblyReference.cache
-C:\Users\ASUS\Desktop\Projects\C#\EmployeeTracking\EmployeeTracking\obj\Debug\net6.0-windows\EmployeeTracking.Form1.resources
 C:\Users\ASUS\Desktop\Projects\C#\EmployeeTracking\EmployeeTracking\obj\Debug\net6.0-windows\EmployeeTracking.csproj.GenerateResource.cache
 C:\Users\ASUS\Desktop\Projects\C#\EmployeeTracking\EmployeeTracking\obj\Debug\net6.0-windows\EmployeeTracking.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\ASUS\Desktop\Projects\C#\EmployeeTracking\EmployeeTracking\obj\Debug\net6.0-windows\EmployeeTracking.AssemblyInfoInputs.cache
@@ -20,3 +19,4 @@ C:\Users\ASUS\Desktop\Projects\C#\EmployeeTracking\EmployeeTracking\obj\Debug\ne
 C:\Users\ASUS\Desktop\Projects\C#\EmployeeTracking\EmployeeTracking\obj\Debug\net6.0-windows\ref\EmployeeTracking.dll
 C:\Users\ASUS\Desktop\Projects\C#\EmployeeTracking\EmployeeTracking\obj\Debug\net6.0-windows\EmployeeTracking.pdb
 C:\Users\ASUS\Desktop\Projects\C#\EmployeeTracking\EmployeeTracking\obj\Debug\net6.0-windows\EmployeeTracking.genruntimeconfig.cache
+C:\Users\ASUS\Desktop\Projects\C#\EmployeeTracking\EmployeeTracking\obj\Debug\net6.0-windows\EmployeeTracking.FrmLogin.resources
