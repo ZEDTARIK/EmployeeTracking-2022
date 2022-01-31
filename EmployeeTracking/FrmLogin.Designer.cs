@@ -101,7 +101,7 @@
             this.Controls.Add(this.lblPassword);
             this.Controls.Add(this.btnLogin);
             this.Name = "FrmLogin";
-            this.StartPosition = System.Windows.Forms.FormStartPosition.CenterParent;
+            this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Login Form";
             this.ResumeLayout(false);
             this.PerformLayout();
