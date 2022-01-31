@@ -39,6 +39,7 @@
             this.btnDepartment.TabIndex = 0;
             this.btnDepartment.Text = "Department";
             this.btnDepartment.UseVisualStyleBackColor = true;
+            this.btnDepartment.Click += new System.EventHandler(this.btnDepartment_Click);
             // 
             // FrmMain
             // 

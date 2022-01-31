@@ -16,5 +16,10 @@ namespace EmployeeTracking
         {
             InitializeComponent();
         }
+
+        private void btnClose_Click(object sender, EventArgs e)
+        {
+            this.Visible = false;
+        }
     }
 }

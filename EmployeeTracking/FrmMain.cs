@@ -16,5 +16,12 @@ namespace EmployeeTracking
         {
             InitializeComponent();
         }
+
+        private void btnDepartment_Click(object sender, EventArgs e)
+        {
+            FrmDepartment frmDept = new FrmDepartment();
+            this.Hide();
+            frmDept.ShowDialog();
+        }
     }
 }

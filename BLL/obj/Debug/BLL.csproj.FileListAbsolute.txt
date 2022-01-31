@@ -7,3 +7,4 @@ C:\Users\ASUS\Desktop\Projects\C#\EmployeeTracking\BLL\obj\Debug\BLL.csproj.Core
 C:\Users\ASUS\Desktop\Projects\C#\EmployeeTracking\BLL\obj\Debug\BLL.csproj.CopyComplete
 C:\Users\ASUS\Desktop\Projects\C#\EmployeeTracking\BLL\obj\Debug\BLL.dll
 C:\Users\ASUS\Desktop\Projects\C#\EmployeeTracking\BLL\obj\Debug\BLL.pdb
+C:\Users\ASUS\Desktop\Projects\C#\EmployeeTracking\BLL\bin\Debug\DAL.dll.config
