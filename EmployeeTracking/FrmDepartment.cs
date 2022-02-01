@@ -34,7 +34,7 @@ namespace EmployeeTracking
             {
                 DEPARTEMENT department = new DEPARTEMENT();
                 department.Department = txtDepartment.Text;
-                BLL.DepartmentBLL.addDepartment(department);
+                DepartmentBLL.addDepartment(department);
                 MessageBox.Show("New Departement was Insert SuccessFully");
             }
                
