@@ -20,7 +20,5 @@ C:\Users\ASUS\Desktop\Projects\C#\EmployeeTracking\EmployeeTracking\obj\Debug\ne
 C:\Users\ASUS\Desktop\Projects\C#\EmployeeTracking\EmployeeTracking\obj\Debug\net6.0-windows\EmployeeTracking.pdb
 C:\Users\ASUS\Desktop\Projects\C#\EmployeeTracking\EmployeeTracking\obj\Debug\net6.0-windows\EmployeeTracking.genruntimeconfig.cache
 C:\Users\ASUS\Desktop\Projects\C#\EmployeeTracking\EmployeeTracking\obj\Debug\net6.0-windows\EmployeeTracking.FrmLogin.resources
-C:\Users\ASUS\Desktop\Projects\C#\EmployeeTracking\EmployeeTracking\obj\Debug\net6.0-windows\EmployeeTracking.Properties.Resources.resources
 C:\Users\ASUS\Desktop\Projects\C#\EmployeeTracking\EmployeeTracking\obj\Debug\net6.0-windows\EmployeeTracking.FrmDepartment.resources
-C:\Users\ASUS\Desktop\Projects\C#\EmployeeTracking\EmployeeTracking\obj\Debug\net6.0-windows\EmployeeTracking.FrmMain.resources
 C:\Users\ASUS\Desktop\Projects\C#\EmployeeTracking\EmployeeTracking\bin\Debug\net6.0-windows\DAL.dll.config
